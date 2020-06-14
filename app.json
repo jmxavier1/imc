@@ -1,0 +1,17 @@
+{
+  "name": "IMC",
+  "displayName": "IMC",
+  "expo": {
+    "name": "IMC",
+    "slug": "IMC",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
